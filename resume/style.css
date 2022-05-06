@@ -1,0 +1,216 @@
+.image {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 107px;
+    top: 210px;
+    background-image: url(./img/images.jpg);
+    border-radius: 50%;
+    border: 1px;
+}
+
+.txtmain {
+    position: absolute;
+    width: 310px;
+    height: 61px;
+    left: 61px;
+    top: 419px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans Typewriter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 41px;
+    color: #1D2CF3;
+
+}
+
+.txtbottom {
+    position: absolute;
+    width: 208px;
+    height: 48px;
+    left: 105px;
+    top: 478px;
+    margin-top: 5px;
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+}
+
+.sidemenu {
+    position: absolute;
+    width: 243.9px;
+    height: 213px;
+    left: -88px;
+    top: -106px;
+    background: #1D2CF3;
+    border-radius: 70%;
+}
+
+.sidemenuimg {
+    position: absolute;
+    width: 35px;
+    height: 22px;
+    left: 130px;
+    top: 120px;
+    border: 1px;
+
+}
+
+
+.group {
+    position: absolute;
+    width: 296px;
+    height: 316px;
+    left: 61px;
+    top: 210px;
+}
+
+.background {
+    position: relative;
+    width: 414px;
+    height: 736px;
+
+    background: #FFFFFF;
+}
+
+.backgroundDark {
+    position: relative;
+    width: 414px;
+    height: 736px;
+    border: 0px;
+    left: -10px;
+    top: -10px;
+
+    background: black;
+}
+
+.txtmenublock {
+    position: absolute;
+    width: 132px;
+    height: 61px;
+    left: 48px;
+    top: 184px;
+
+    font-family: 'Lucida Sans Typewriter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 41px;
+
+
+}
+
+.txtmenu {
+    text-decoration: dashed;
+    margin-bottom: 55px;
+    color: #FFFFFF;
+}
+
+.txtmenu:hover {
+    text-decoration: underline;
+    margin-bottom: 55px;
+    color: orange;
+}
+.sqrmenu{
+    position: absolute;
+width: 113px;
+height: 100px;
+left: 245px;
+top: 586px;
+
+background: #1D2CF3;
+}
+.circlemenu{
+    position: absolute;
+width: 98px;
+height: 101px;
+left: 309px;
+top: 533px;
+border-radius: 50%;
+
+background: #FFFFFF;
+}
+
+.pagedecor {
+    position: absolute;
+    width: 301px;
+    height: 572.01px;
+    left: 48px;
+    top: 184px;
+}
+
+.decoration {
+    position: absolute;
+    top: 300px;
+    left: 60px;
+    display: flex;
+    width: 70px;
+
+
+}
+
+.line {
+    position: absolute;
+    width: 4px;
+    height: 490px;
+    left: 50%;
+
+    background-color: #FFFFFF;
+
+
+
+
+}
+
+.circle {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-bottom: 50px;
+    top: 35px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFFFFF;
+
+
+
+}
+
+
+
+.lineball {
+    position: absolute;
+    width: 70px;
+    left: -35px;
+}
+
+.txtpage {
+    position: absolute;
+    left: 10%;
+    top: 140px;
+    font-style: normal;
+    font-family: 'Lucida Sans Typewriter';
+    font-size: 60px;
+    color: #FFFFFF;
+
+    
+
+
+
+}
+
+.circle p {
+    width: 320px;
+    margin-left: 40px;   
+    font-style: normal;
+    font-family: 'Lucida Sans Typewriter';
+    font-size: large;
+}
